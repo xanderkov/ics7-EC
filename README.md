@@ -1,2 +1,3 @@
-# ics7-E-
-ics7-ec labs (electronic computer)
+# ics7-EC
+
+Проблема? Проблема. Решил? Ставь звезду
